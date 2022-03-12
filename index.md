@@ -20,7 +20,7 @@
 - 哔哩哔哩play旧版本：https://wwe.lanzoum.com/ih7Dt003fggb
 - 纸条破解版：https://wwe.lanzoum.com/iH5LWzze4ng
 - 快对作业：https://wwe.lanzoum.com/itUlr012zhub
-- WPSoffice精简版：https://wwe.lanzoum.com/iPHCP012zivi
+- WPS Office精简版：https://wwe.lanzoum.com/iPHCP012zivi
 - 黄鸟抓包：https://wwe.lanzoum.com/itVLj012zicj
 - APKSure：https://wwe.lanzoum.com/iLo8Wzxdade
 - AMD(多线程下载)：https://wwe.lanzoum.com/ic5M9zi1pdc
@@ -41,6 +41,21 @@
 ## 电脑端：
 - bt下载：https://wwe.lanzoum.com/imkQxzif4eb
 
+## 常用网站：
+- 节点测速：https://speedtest.zeroteam.top/
+- Facebook：https://www.facebook.com/
+- pixiv：https://www.pixiv.net/
+- 油管：https://www.youtube.com/
+- 推特：https://twitter.com/
+- pornhub：https://cn.pornhub.com/
+- 情色：https://qingse.one/
+- 果核剥壳：https://www.ghxi.com/
+- 谷歌搜索：https://www.google.com.hk/
+- 阿里盘搜：https://www.alipanso.com/
+- 免费音乐下载：http://flwfdd.xyz/music/#/
+- pornhub视频下载：https://www.tubeoffline.com/download-PornHub-videos.php
+- 谷歌软件下载：https://apkcombo.com/zh/
+- 书签地球：https://www.bookmarkearth.com/
 
 
 
