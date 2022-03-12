@@ -3,7 +3,7 @@
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
 
-### 节点:
+## 节点:
 - 不死鸟（选择一键连） ①：https://raw.githubusercontent.com/qianmofx/clash-jiedian/main/%E4%B8%8D%E6%AD%BB%E9%B8%9F.yml
 - 爬取节点网站：https://zua426.cf/
 - 格式转换网站：https://acl4ssr-sub.github.io/
@@ -34,8 +34,7 @@
 - 快手：https://wwe.lanzoum.com/ipezHzife8f
 - 抖音：https://wwe.lanzoum.com/iD7pQz0wrba
 - 香蕉视频：https://wwe.lanzoum.com/i4hShwp401c
-- 香蕉视频VIP账号：
-- 16260468083----w12345678
+- 香蕉视频VIP账号：16260468083----w12345678
 - 梅花视频：https://wwe.lanzoum.com/im0WFwp3ted
 - 玉米视频：https://wwe.lanzoum.com/iJ0m6wp3wkh
 
