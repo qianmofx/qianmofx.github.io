@@ -3,8 +3,9 @@
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
 
-## 节点:
+## clash节点:
 - 不死鸟（选择一键连） ①：https://raw.githubusercontent.com/qianmofx/clash-jiedian/main/%E4%B8%8D%E6%AD%BB%E9%B8%9F.yml
+- 泰森云：https://tsd.ink/Wnf4fG
 - 爬取节点网站：https://zua426.cf/
 - 格式转换网站：https://acl4ssr-sub.github.io/
 
