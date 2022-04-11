@@ -20,7 +20,7 @@
 - 酷安VN：https://wwe.lanzoum.com/iEP2z012zi0h
 - 哔哩哔哩play旧版本：https://wwe.lanzoum.com/ih7Dt003fggb
 - 纸条破解版：https://wwe.lanzoum.com/iH5LWzze4ng
-- 快对作业：https://wwe.lanzoum.com/itUlr012zhub
+- 快对作业：https://wwd.lanzoum.com/iCpgl031263g
 - WPS Office精简版：https://wwe.lanzoum.com/iPHCP012zivi
 - 黄鸟抓包：https://wwe.lanzoum.com/itVLj012zicj
 - APKSure：https://wwe.lanzoum.com/iLo8Wzxdade
