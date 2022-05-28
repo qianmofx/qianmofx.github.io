@@ -36,6 +36,8 @@
 - httpbox：https://wwe.lanzoum.com/iKdYFyzamsj
 
 ## 特殊:
+- 漫画:https://hanman18.com
+- 漫画批量下载软件:
 - 快手：https://wwe.lanzoum.com/ipezHzife8f
 - 抖音：https://wwe.lanzoum.com/iD7pQz0wrba
 - 香蕉视频：https://wwe.lanzoum.com/i4hShwp401c
