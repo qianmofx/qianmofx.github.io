@@ -9,9 +9,12 @@
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
 
 ## clash节点:
-- 不死鸟（选择一键连） ①：https://raw.githubusercontent.com/qianmofx/clash-jiedian/main/%E4%B8%8D%E6%AD%BB%E9%B8%9F.yml
 - 爬取节点网站：https://zua426.cf/
 - 格式转换网站：https://acl4ssr-sub.github.io/
+
+## 白嫖机场
+- Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
+- 
 
 
 ## 常用应用(Android):
