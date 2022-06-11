@@ -14,7 +14,7 @@
 
 ## 白嫖机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
-- 
+- 加速猫(注册送100G)：https://jsmao.net/auth/login
 
 
 ## 常用应用(Android):
@@ -41,7 +41,6 @@
 ## 特殊:
 - 漫画：https://hanman18.com
 - 漫画批量下载软件：https://wwd.lanzoum.com/ita7v05k34gj
-- 快手：https://wwe.lanzoum.com/ipezHzife8f
 - 抖音：https://wwe.lanzoum.com/iD7pQz0wrba
 - 香蕉视频：https://wwe.lanzoum.com/i4hShwp401c
 - 香蕉视频VIP账号：16260468083----w12345678
@@ -60,7 +59,6 @@
 - pornhub：https://cn.pornhub.com/
 - 情色：https://qingse.one/
 - 果核剥壳：https://www.ghxi.com/
-- 谷歌搜索：https://www.google.com.hk/
 - 阿里盘搜：https://www.alipanso.com/
 - 免费音乐下载：http://flwfdd.xyz/music/#/
 - pornhub视频下载：https://www.tubeoffline.com/download-PornHub-videos.php
