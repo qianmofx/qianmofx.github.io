@@ -4,7 +4,7 @@
 - 13110988269----w12345678.
 - 15559052147----w12345678.
 - 15605044107----w12345678.
-
+### 养老软件(钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
 
