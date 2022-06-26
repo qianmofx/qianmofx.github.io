@@ -6,6 +6,7 @@
 - 15605044107----w12345678.
 ### 养老软件
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
+- 公众号:百分之千：https://mp.weixin.qq.com/s/6b7RDph3_ckbS_JOxemnGA
 
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
