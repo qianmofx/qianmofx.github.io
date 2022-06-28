@@ -18,7 +18,8 @@
 
 ## 白嫖机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
-- 加速猫(注册送100G)：https://jsmao.net/auth/login
+- 加速猫(注册送100G)：https://jsmao.cloud/auth/login
+- 永久(采集)：https://v1.mk/xRYwCqA
 
 
 ## 常用应用(Android):
