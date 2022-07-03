@@ -16,10 +16,11 @@
 - 爬取节点网站：https://zua426.cf/
 - 格式转换网站：https://acl4ssr-sub.github.io/
 
-## 白嫖机场
+## 机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
-- 加速猫(注册送100G)：https://jsmao.cloud/auth/login
 - 永久(采集)：https://v1.mk/xRYwCqA
+- 阿伟云：https://awslcloud.xyz/
+- xmrth：https://xmrth.shop/auth/login
 
 
 ## 常用应用(Android):
