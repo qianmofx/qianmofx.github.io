@@ -5,6 +5,10 @@
 - 15559052147----w12345678.
 - 15605044107----w12345678.
 
+## 电子书
+- Z-Library：https://zh.jp1lib.org/
+- Pdfdrive：https://www.pdfdrive.com/
+
 ## 养老软件
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
 - 公众号:百分之千：https://mp.weixin.qq.com/s/6b7RDph3_ckbS_JOxemnGA
