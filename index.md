@@ -9,9 +9,10 @@
 - Z-Library：https://zh.jp1lib.org/
 - Pdfdrive：https://www.pdfdrive.com/
 
-## 养老软件
+## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
 - 公众号:百分之千：https://mp.weixin.qq.com/s/6b7RDph3_ckbS_JOxemnGA
+- 423Down：https://www.423down.com/
 
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
