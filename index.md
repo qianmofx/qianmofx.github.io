@@ -53,13 +53,8 @@
 
 
 ## 特殊:
-- 漫画：https://hanman18.com
-- 漫画批量下载软件：https://wwd.lanzoum.com/ita7v05k34gj
 - 抖音：https://wwe.lanzoum.com/iD7pQz0wrba
-- 香蕉视频：https://wwe.lanzoum.com/i4hShwp401c
 - 香蕉视频VIP账号：16260468083----w12345678
-- 梅花视频：https://wwe.lanzoum.com/im0WFwp3ted
-- 玉米视频：https://wwe.lanzoum.com/iJ0m6wp3wkh
 
 ## 电脑端：
 - bt下载：https://wwe.lanzoum.com/imkQxzif4eb
