@@ -12,6 +12,9 @@
 - 低端影视：https://ddrk.me/
 - 大米星球：https://dmys1.com/
 
+## 资源
+- 星火资源：https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2
+
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
 - 公众号:百分之千：https://mp.weixin.qq.com/s/6b7RDph3_ckbS_JOxemnGA
