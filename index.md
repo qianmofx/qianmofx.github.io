@@ -39,7 +39,6 @@
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
 - 永久(采集)：https://v1.mk/xRYwCqA
 - 阿伟云：https://awslcloud.xyz/
-- xmrth：https://xmrth.shop/auth/login
 - 虚数加速器：https://www.fkfirewall.top/#/dashboard
 
 
