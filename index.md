@@ -16,7 +16,7 @@
 - Pdfdrive：https://www.pdfdrive.com/
 
 ## 影视
-- 低端影视：https://ddrk.me/
+- 低端影视：https://ddys.tv/
 - 大米星球：https://dmys1.com/
 
 ## 资源
