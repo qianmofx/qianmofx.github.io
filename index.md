@@ -22,6 +22,8 @@
 ## 资源
 - 星火资源：https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2
 - 下次一定：https://www.iiice.cn/#/
+- bt之家：https://btbtt18.com/
+- 顶流社区：https://www.dlsq.cc/
 
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
