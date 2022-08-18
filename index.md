@@ -42,6 +42,7 @@
 - 永久(采集)：https://v1.mk/xRYwCqA
 - 阿伟云：https://awslcloud.xyz/
 - 虚数加速器：https://www.fkfirewall.top/#/dashboard
+- 加速猫：https://jsmao.org/user##
 
 
 ## 常用应用(Android):
