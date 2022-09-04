@@ -30,6 +30,7 @@
 - 公众号:百分之千：https://mp.weixin.qq.com/s/6b7RDph3_ckbS_JOxemnGA
 - 百分之千全部应用(密码:bfzq)：www.lanzouw.com/b0cw93hih
 - 423Down：https://www.423down.com/
+- 定制版应用：https://www.firepx.com/app/custom-edition-and-google-play-app/
 
 ### clash(安卓端)链接：https://wwe.lanzoum.com/iZrsT012zj4h
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
@@ -67,32 +68,5 @@
 - 抹机王：https://wwe.lanzoum.com/i37S6wp3qwd
 - httpbox：https://wwe.lanzoum.com/iKdYFyzamsj
 
-
-
-
-## 特殊:
-- 抖音：https://wwe.lanzoum.com/iD7pQz0wrba
-- 香蕉视频VIP账号：16260468083----w12345678
-
 ## 电脑端：
 - bt下载：https://wwe.lanzoum.com/imkQxzif4eb
-
-## 常用网站：
-- 节点测速：https://speedtest.zeroteam.top/
-- Facebook：https://www.facebook.com/
-- pixiv：https://www.pixiv.net/
-- 油管：https://www.youtube.com/
-- 推特：https://twitter.com/
-- pornhub：https://cn.pornhub.com/
-- 情色：https://qingse.one/
-- 果核剥壳：https://www.ghxi.com/
-- 阿里盘搜：https://www.alipanso.com/
-- 免费音乐下载：http://flwfdd.xyz/music/#/
-- pornhub视频下载：https://www.tubeoffline.com/download-PornHub-videos.php
-- 谷歌软件下载：https://apkcombo.com/zh/
-- 书签地球：https://www.bookmarkearth.com/
-
-
-
-
-
