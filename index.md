@@ -45,7 +45,7 @@
 - 阿伟云：https://awslcloud.xyz/
 - 虚数加速器：https://www.fkfirewall.top/#/dashboard
 - 加速猫：https://jsmao.org/user##
-- 西瓜：https://xg1110.com/user
+- 西瓜(3天50G)：https://xg1110.com/user
 
 
 ## 常用应用(Android):
