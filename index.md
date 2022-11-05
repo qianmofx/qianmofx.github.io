@@ -1,5 +1,7 @@
 ## 统一密码为123
 
+
+
 ## 移动云手机账号
 - 13110988269----w12345678.
 - 15559052147----w12345678.
@@ -7,9 +9,6 @@
 
 ## 抖音账号凭证
 - 抖音账号凭证：https://wwd.lanzoum.com/iXSkH08bj00j
-
-## 在线解析
-- 百度云,天翼云解析：https://kinhdown.com/
 
 ## 电子书
 - Z-Library：https://zh.jp1lib.org/
@@ -23,7 +22,7 @@
 - 星火资源：https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2
 - 下次一定：https://www.iiice.cn/#/
 - bt之家：https://btbtt18.com/
-- 顶流社区：https://www.dlsq.cc/
+- 海外学术加速：https://steampp.net/
 
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
