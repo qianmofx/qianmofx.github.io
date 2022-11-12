@@ -1,5 +1,8 @@
 ## 统一密码为123
 
+## 网站
+- 网址：http://qianmo.liveblog365.com/
+- 后台管理:http://qianmo.liveblog365.com/wp-admin
 
 
 ## 移动云手机账号
