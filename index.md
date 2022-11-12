@@ -3,6 +3,7 @@
 ## 网站
 - 网址：http://qianmo.liveblog365.com/
 - 后台管理：http://qianmo.liveblog365.com/wp-admin
+- 免费服务器：https://profreehost.com/
 
 
 ## 移动云手机账号
@@ -26,7 +27,6 @@
 - 下次一定：https://www.iiice.cn/#/
 - bt之家：https://btbtt18.com/
 - 海外学术加速：https://steampp.net/
-- 免费服务器：https://profreehost.com/
 
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
