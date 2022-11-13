@@ -21,6 +21,7 @@
 ## 影视
 - 低端影视：https://ddys.tv/
 - 大米星球：https://dmys1.com/
+- 泥影院：https://www.nivod.tv/
 
 ## 资源
 - 星火资源：https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2
