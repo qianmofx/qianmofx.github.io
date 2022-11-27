@@ -28,6 +28,8 @@
 - 下次一定：https://www.iiice.cn/#/
 - bt之家：https://btbtt18.com/
 - 海外学术加速：https://steampp.net/
+- 临时gmail邮箱：https://smailpro.com/advanced
+- 临时邮箱：https://www.linshiyouxiang.net/
 
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
@@ -45,11 +47,12 @@
 
 ## 机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
-- 永久(采集)：https://v1.mk/xRYwCqA
 - 阿伟云：https://awslcloud.xyz/
 - 虚数加速器：https://www.fkfirewall.top/#/dashboard
 - 加速猫：https://jsmao.org/user##
-- 西瓜(3天50G)：https://xg1110.com/user
+- 西瓜(1天10G)：https://xg1110.com/user
+- 闪电猫(3天5G,需验证任意邮箱)：https://aff03.speedcat-aff02.com/user##
+- infiniport(1天16G,需验证任意邮箱)：https://f0216420b.infinispeed-183a03b0.net/#/dashboard
 
 
 ## 常用应用(Android):
