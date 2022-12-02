@@ -51,7 +51,7 @@
 - 虚数加速器：https://www.fkfirewall.top/#/dashboard
 - 加速猫：https://jsmao.org/user##
 - 西瓜(1天10G)：https://xg1110.com/user
-- 闪电猫(3天5G,需验证任意邮箱)：https://aff03.speedcat-aff02.com/user##
+- 闪电猫(3天5G)：https://aff03.speedcat-aff02.com/user##
 - infiniport(1天16G,需验证任意邮箱)：https://f0216420b.infinispeed-183a03b0.net/#/dashboard
 
 
