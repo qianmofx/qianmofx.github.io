@@ -30,6 +30,7 @@
 - 海外学术加速：https://steampp.net/
 - 临时gmail邮箱：https://smailpro.com/advanced
 - 临时邮箱：https://www.linshiyouxiang.net/
+- 互联网档案馆(fq)：https://archive.org/
 
 ## 玩机
 - (钟晨酱 密码:intrace)：https://cz-jam.lanzouj.com/b0bxmm1vg
