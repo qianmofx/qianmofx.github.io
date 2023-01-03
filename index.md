@@ -1,11 +1,5 @@
 ## 统一密码为123
 
-## 网站
-- 网址：http://qianmo.liveblog365.com/
-- 后台管理：http://qianmo.liveblog365.com/wp-admin
-- 免费服务器：https://profreehost.com/
-
-
 ## 移动云手机账号
 - 13110988269----w12345678.
 - 15559052147----w12345678.
@@ -43,7 +37,6 @@
 ### clash(windows端)链接：https://wwe.lanzoum.com/iyrPP01cpizc
 
 ## clash节点:
-- 爬取节点网站：https://zua426.cf/
 - 格式转换网站：https://acl4ssr-sub.github.io/
 
 ## 机场
