@@ -42,7 +42,6 @@
 ## 机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
 - 阿伟云：https://awslcloud.xyz/
-- 虚数加速器：https://www.fkfirewall.top/#/dashboard
 - 八方云(1天5G)：https://user.bafang.vip/#/invite
 - 西瓜(1天10G)：https://xg1110.com/user
 - 闪电猫(3天5G)：https://aff03.speedcat-aff02.com/user##
