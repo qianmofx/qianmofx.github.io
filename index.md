@@ -47,7 +47,7 @@
 - 西瓜(1天10G)：https://xg1110.com/user
 - 闪电猫(3天5G)：https://aff03.speedcat-aff02.com/user##
 - infiniport(1天16G,需验证任意邮箱)：https://f0216420b.infinispeed-183a03b0.net/#/dashboard
-- 良心机场：http://xn--mes91r2ng7p4a.com/#/dashboard
+- 良心机场：良心机场.com
 
 
 ## 常用应用(Android):
