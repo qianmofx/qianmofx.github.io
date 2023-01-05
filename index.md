@@ -42,7 +42,7 @@
 ## 机场
 - Ikuuu(每月50G,每天签到送流量): https://ikuuu.one/user
 - 阿伟云：https://awslcloud.xyz/
-- 八方云(1天5G)：https://user.bafang.vip/#/invite
+- 八方云：https://user.bafang.vip/#/invite
 - 西瓜(1天10G)：https://xg1110.com/user
 - 闪电猫(3天5G)：https://aff03.speedcat-aff02.com/user##
 - infiniport(1天16G,需验证任意邮箱)：https://f0216420b.infinispeed-183a03b0.net/#/dashboard
