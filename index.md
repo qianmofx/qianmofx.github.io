@@ -7,6 +7,10 @@
 - 15559052147----w12345678.
 - 15605044107----w12345678.
 
+## m3u8
+- 在线播放：https://m3u8-player.com/
+- 在线下载：https://tools.thatwind.com/tool/m3u8downloader
+
 ## 抖音账号凭证
 - 抖音账号凭证：https://wwd.lanzoum.com/iXSkH08bj00j
 
