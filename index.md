@@ -7,6 +7,10 @@
 - 15559052147----w12345678.
 - 15605044107----w12345678.
 
+## Ai
+- 一帧秒创：https://aigc.yizhentv.com/app/
+- 画宇宙：https://creator.nolibox.com/
+
 ## m3u8
 - 在线播放：https://m3u8-player.com/
 - 在线下载：https://tools.thatwind.com/tool/m3u8downloader
