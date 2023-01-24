@@ -25,6 +25,7 @@
 
 ## 资源
 - 星火资源：https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2
+- 趣乐兔：https://funletu.com/
 - 下次一定：https://www.iiice.cn/#/
 - bt之家：https://btbtt18.com/
 - 海外学术加速：https://steampp.net/
